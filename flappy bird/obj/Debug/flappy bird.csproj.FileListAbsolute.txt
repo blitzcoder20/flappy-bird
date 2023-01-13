@@ -1,0 +1,71 @@
+C:\Users\Pc Cameretta\Desktop\flappy bird\flappy bird\bin\Debug\flappy bird.exe.config
+C:\Users\marco.simonetti\Desktop\flappy bird\flappy bird\bin\Debug\flappy bird.exe.config
+C:\Users\marco.simonetti\Desktop\flappy bird\flappy bird\bin\Debug\flappy bird.exe
+C:\Users\marco.simonetti\Desktop\flappy bird\flappy bird\bin\Debug\flappy bird.pdb
+C:\Users\marco.simonetti\Desktop\flappy bird\flappy bird\obj\Debug\flappy bird.csprojResolveAssemblyReference.cache
+C:\Users\marco.simonetti\Desktop\flappy bird\flappy bird\obj\Debug\flappy_bird.Form1.resources
+C:\Users\marco.simonetti\Desktop\flappy bird\flappy bird\obj\Debug\flappy_bird.Properties.Resources.resources
+C:\Users\marco.simonetti\Desktop\flappy bird\flappy bird\obj\Debug\flappy bird.csproj.GenerateResource.Cache
+C:\Users\marco.simonetti\Desktop\flappy bird\flappy bird\obj\Debug\flappy bird.exe
+C:\Users\marco.simonetti\Desktop\flappy bird\flappy bird\obj\Debug\flappy bird.pdb
+D:\progetti vari\flappy bird\flappy bird\bin\Debug\flappy bird.exe.config
+D:\progetti vari\flappy bird\flappy bird\bin\Debug\flappy bird.exe
+D:\progetti vari\flappy bird\flappy bird\bin\Debug\flappy bird.pdb
+D:\progetti vari\flappy bird\flappy bird\obj\Debug\flappy bird.csprojResolveAssemblyReference.cache
+D:\progetti vari\flappy bird\flappy bird\obj\Debug\flappy_bird.Form1.resources
+D:\progetti vari\flappy bird\flappy bird\obj\Debug\flappy_bird.Properties.Resources.resources
+D:\progetti vari\flappy bird\flappy bird\obj\Debug\flappy bird.csproj.GenerateResource.Cache
+D:\progetti vari\flappy bird\flappy bird\obj\Debug\flappy bird.exe
+D:\progetti vari\flappy bird\flappy bird\obj\Debug\flappy bird.pdb
+I:\progetti vari\flappy bird\flappy bird\bin\Debug\flappy bird.exe.config
+I:\progetti vari\flappy bird\flappy bird\obj\Debug\flappy bird.exe
+I:\progetti vari\flappy bird\flappy bird\obj\Debug\flappy bird.pdb
+I:\progetti vari\flappy bird\flappy bird\bin\Debug\flappy bird.exe
+I:\progetti vari\flappy bird\flappy bird\bin\Debug\flappy bird.pdb
+I:\progetti vari\flappy bird\flappy bird\obj\Debug\flappy bird.csprojResolveAssemblyReference.cache
+I:\progetti vari\flappy bird\flappy bird\obj\Debug\flappy_bird.Form1.resources
+I:\progetti vari\flappy bird\flappy bird\obj\Debug\flappy_bird.Properties.Resources.resources
+I:\progetti vari\flappy bird\flappy bird\obj\Debug\flappy bird.csproj.GenerateResource.Cache
+C:\Users\marco.simonetti\Desktop\flappy bird\flappy bird\obj\Debug\flappy_bird.menu.resources
+C:\Users\Pc Cameretta\Desktop\Progetti Raffaele\flappy bird\flappy bird\bin\Debug\flappy bird.exe.config
+C:\Users\Pc Cameretta\Desktop\Progetti Raffaele\flappy bird\flappy bird\obj\Debug\flappy bird.exe
+C:\Users\Pc Cameretta\Desktop\Progetti Raffaele\flappy bird\flappy bird\obj\Debug\flappy bird.pdb
+C:\Users\Pc Cameretta\Desktop\Progetti Raffaele\flappy bird\flappy bird\obj\Debug\flappy bird.csprojResolveAssemblyReference.cache
+C:\Users\Pc Cameretta\Desktop\Progetti Raffaele\flappy bird\flappy bird\obj\Debug\flappy_bird.Form1.resources
+C:\Users\Pc Cameretta\Desktop\Progetti Raffaele\flappy bird\flappy bird\obj\Debug\flappy_bird.Properties.Resources.resources
+C:\Users\Pc Cameretta\Desktop\Progetti Raffaele\flappy bird\flappy bird\obj\Debug\flappy bird.csproj.GenerateResource.Cache
+C:\Users\Pc Cameretta\Desktop\Progetti Raffaele\flappy bird\flappy bird\bin\Debug\flappy bird.exe
+C:\Users\Pc Cameretta\Desktop\Progetti Raffaele\flappy bird\flappy bird\bin\Debug\flappy bird.pdb
+C:\Users\Pc Cameretta\Desktop\Progetti Raffaele\flappy bird Serrapica\flappy bird\bin\Debug\flappy bird.exe.config
+C:\Users\Pc Cameretta\Desktop\Progetti Raffaele\flappy bird Serrapica\flappy bird\obj\Debug\flappy bird.exe
+C:\Users\Pc Cameretta\Desktop\Progetti Raffaele\flappy bird Serrapica\flappy bird\obj\Debug\flappy bird.pdb
+F:\ISIS\3 INF\INF\PROGETTI STUDENTI\_II\flappy bird Serrapica\flappy bird\bin\Debug\flappy bird.exe.config
+F:\ISIS\3 INF\INF\PROGETTI STUDENTI\_II\flappy bird Serrapica\flappy bird\obj\Debug\flappy bird.exe
+F:\ISIS\3 INF\INF\PROGETTI STUDENTI\_II\flappy bird Serrapica\flappy bird\obj\Debug\flappy bird.pdb
+F:\ISIS\3 INF\INF\PROGETTI STUDENTI\_II\flappy bird Serrapica\flappy bird\bin\Debug\flappy bird.exe
+F:\ISIS\3 INF\INF\PROGETTI STUDENTI\_II\flappy bird Serrapica\flappy bird\bin\Debug\flappy bird.pdb
+F:\ISIS\3 INF\INF\PROGETTI STUDENTI\_II\flappy bird Serrapica\flappy bird\obj\Debug\flappy bird.csprojResolveAssemblyReference.cache
+F:\ISIS\3 INF\INF\PROGETTI STUDENTI\_II\flappy bird Serrapica\flappy bird\obj\Debug\flappy_bird.Form1.resources
+F:\ISIS\3 INF\INF\PROGETTI STUDENTI\_II\flappy bird Serrapica\flappy bird\obj\Debug\flappy_bird.Properties.Resources.resources
+F:\ISIS\3 INF\INF\PROGETTI STUDENTI\_II\flappy bird Serrapica\flappy bird\obj\Debug\flappy bird.csproj.GenerateResource.Cache
+C:\Users\Pc Cameretta\Desktop\flappy bird Serrapica\flappy bird\bin\Debug\flappy bird.exe.config
+C:\Users\Pc Cameretta\Desktop\flappy bird Serrapica\flappy bird\obj\Debug\flappy bird.exe
+C:\Users\Pc Cameretta\Desktop\flappy bird Serrapica\flappy bird\obj\Debug\flappy bird.pdb
+C:\Users\Pc Cameretta\Desktop\flappy bird Serrapica\flappy bird\bin\Debug\flappy bird.exe
+C:\Users\Pc Cameretta\Desktop\flappy bird Serrapica\flappy bird\bin\Debug\flappy bird.pdb
+C:\Users\Pc Cameretta\Desktop\flappy bird Serrapica\flappy bird\obj\Debug\flappy bird.csprojResolveAssemblyReference.cache
+C:\Users\Pc Cameretta\Desktop\flappy bird Serrapica\flappy bird\obj\Debug\flappy_bird.Form1.resources
+C:\Users\Pc Cameretta\Desktop\flappy bird Serrapica\flappy bird\obj\Debug\flappy_bird.Properties.Resources.resources
+C:\Users\Pc Cameretta\Desktop\flappy bird Serrapica\flappy bird\obj\Debug\flappy bird.csproj.GenerateResource.Cache
+C:\Users\Pc Cameretta\Desktop\Progetti Raffaele\progetti vari\flappy bird Serrapica\flappy bird\bin\Debug\flappy bird.exe.config
+C:\Users\Pc Cameretta\Desktop\Progetti Raffaele\progetti vari\flappy bird Serrapica\flappy bird\obj\Debug\flappy bird.exe
+C:\Users\Pc Cameretta\Desktop\Progetti Raffaele\progetti vari\flappy bird Serrapica\flappy bird\obj\Debug\flappy bird.pdb
+C:\Users\raffa\OneDrive\Documenti\Roba Raffaele\Progetti Raffaele\progetti vari\flappy bird Serrapica\flappy bird\bin\Debug\flappy bird.exe.config
+C:\Users\raffa\OneDrive\Documenti\Roba Raffaele\Progetti Raffaele\progetti vari\flappy bird Serrapica\flappy bird\bin\Debug\flappy bird.exe
+C:\Users\raffa\OneDrive\Documenti\Roba Raffaele\Progetti Raffaele\progetti vari\flappy bird Serrapica\flappy bird\bin\Debug\flappy bird.pdb
+C:\Users\raffa\OneDrive\Documenti\Roba Raffaele\Progetti Raffaele\progetti vari\flappy bird Serrapica\flappy bird\obj\Debug\flappy bird.csprojAssemblyReference.cache
+C:\Users\raffa\OneDrive\Documenti\Roba Raffaele\Progetti Raffaele\progetti vari\flappy bird Serrapica\flappy bird\obj\Debug\flappy_bird.Form1.resources
+C:\Users\raffa\OneDrive\Documenti\Roba Raffaele\Progetti Raffaele\progetti vari\flappy bird Serrapica\flappy bird\obj\Debug\flappy_bird.Properties.Resources.resources
+C:\Users\raffa\OneDrive\Documenti\Roba Raffaele\Progetti Raffaele\progetti vari\flappy bird Serrapica\flappy bird\obj\Debug\flappy bird.csproj.GenerateResource.cache
+C:\Users\raffa\OneDrive\Documenti\Roba Raffaele\Progetti Raffaele\progetti vari\flappy bird Serrapica\flappy bird\obj\Debug\flappy bird.exe
+C:\Users\raffa\OneDrive\Documenti\Roba Raffaele\Progetti Raffaele\progetti vari\flappy bird Serrapica\flappy bird\obj\Debug\flappy bird.pdb
